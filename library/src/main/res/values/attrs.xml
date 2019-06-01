@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VerificationCodeInputLayout">
+        <attr name="boxCount" format="integer"></attr>
+        <attr name="boxDrawableNormal" format="reference"></attr>
+        <attr name="boxDrawableFocus" format="reference"></attr>
+        <attr name="boxSpacing" format="dimension"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="textColor" format="color"></attr>
+        <attr name="inputType" format="string"></attr>
+    </declare-styleable>
+
+</resources>
